@@ -1,0 +1,7 @@
+Flask==0.12.2
+Jinja2==2.9.6
+pandas==0.21.0
+numpy==1.13.3
+sklearn==0.0
+scipy==0.17.1
+matplotlib==2.1.0

@@ -1,0 +1,20 @@
+8315	Athletic Club de Bilbao
+9906	Atletico Madrid
+8634	FC Barcelona
+9910	RC Celta de Vigo
+9783	RC Deportivo de La Coruna
+8372	SD Eibar
+8558	RCD Espanyol
+8305	Getafe CF
+7878	Granada CF
+8306	UD Las Palmas
+8581	Levante UD
+9864	Malaga CF
+8370	Rayo Vallecano
+8603	Real Betis Balompie
+8633	Real Madrid CF
+8560	Real Sociedad
+8302	Sevilla FC
+9869	Real Sporting de Gijon
+10267	Valencia CF
+10205	Villarreal CF
